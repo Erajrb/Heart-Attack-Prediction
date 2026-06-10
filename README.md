@@ -1,4 +1,20 @@
-This repository is dedicated to heart disease prediction.
-I have used two approaches where the first is a basic prediction using logistic regression and the second is where i have used random forest, SVM, Decistion Tree and Logisitic regression.
-The first approach directly loads the logistic regression method into streamlit webpage.
-The second approach uses pickle to save files for each algorithm and load it while launching a streamlit webpage.
+# Heart Disease Prediction
+
+## Overview
+This project uses machine learning techniques to predict the likelihood of heart disease based on patient health indicators and clinical data.
+
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Models Used
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- KNN
+
+## Results
+The models were evaluated using accuracy, precision, recall, and confusion matrices to identify the most effective predictor.
